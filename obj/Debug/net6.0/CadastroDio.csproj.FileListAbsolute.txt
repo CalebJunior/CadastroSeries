@@ -1,0 +1,15 @@
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\obj\Debug\net6.0\CadastroDio.csproj.AssemblyReference.cache
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\obj\Debug\net6.0\CadastroDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\obj\Debug\net6.0\CadastroDio.AssemblyInfoInputs.cache
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\obj\Debug\net6.0\CadastroDio.AssemblyInfo.cs
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\obj\Debug\net6.0\CadastroDio.csproj.CoreCompileInputs.cache
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\bin\Debug\net6.0\CadastroDio.exe
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\bin\Debug\net6.0\CadastroDio.deps.json
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\bin\Debug\net6.0\CadastroDio.runtimeconfig.json
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\bin\Debug\net6.0\CadastroDio.dll
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\bin\Debug\net6.0\ref\CadastroDio.dll
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\bin\Debug\net6.0\CadastroDio.pdb
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\obj\Debug\net6.0\CadastroDio.dll
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\obj\Debug\net6.0\ref\CadastroDio.dll
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\obj\Debug\net6.0\CadastroDio.pdb
+C:\workspace\CadastroEmSerie _ DIO\CadastroDio\obj\Debug\net6.0\CadastroDio.genruntimeconfig.cache
